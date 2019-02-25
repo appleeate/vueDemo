@@ -1,21 +1,19 @@
 # vue_demo
+这个是我根据b站的尚硅谷视频学习的vue项目-
+基于Vue-cli创建的项目
 
-> A Vue.js project
+其中包含了：
 
-## Build Setup
+1. 使用脚手架创建项目
+2. 脚手架编写项目
+3. 打包发布项目
 
-``` bash
-# install dependencies
-npm install
+- users
+- todos
+- todos2
+- base
+- ajax
+- comments
 
-# serve with hot reload at localhost:8080
-npm run dev
+都是根据视频编写并且完善的项目
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
